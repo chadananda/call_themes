@@ -1,0 +1,63 @@
+#card {
+  padding:0 !important;
+}
+
+#fc-question {
+  margin:0;
+  border-radius: 10px 10px 0 0;
+  padding-top:26px;
+  width: 392px; 
+  height: 40px;
+  left:0;
+}
+
+div.fc-nopic {width: 100% !important;}
+
+/* one button, text */
+#no-image-review {
+  left: 0; right:0;
+  margin: 25px !important;
+  width: 346px !important;
+}
+#no-image-review input.form-submit {top:0 !important;}
+/* four buttons, text */
+#fc_table_np {
+  left:0 !important; top:0; right:0; bottom:0;
+  margin:25px !important; 
+  width: 346px !important;
+}
+
+/* one button, image */
+#img-review-answer {
+ margin: 25px;
+ margin-left: 135px;  
+ left:0; right:0; top:0; bottom:0;
+}
+#img-review-answer input {outline: 0; left:0; top:0; bottom:0;}
+
+/* four buttons, images */
+#fc_table_p {
+ margin: 25px; 
+ left: 25px !important; top:0; right:0; bottom:0;
+}
+#fc_table_p input {outline: 0;}
+
+
+#card #no-image-review input.form-submit {
+  width: 100%; left:0; right:0; 
+}
+
+#CourseTitle {
+ width: 400px; text-align:center;
+ left:0; right:0; 
+}
+
+#decks_txt, #cards_txt {
+  width: 340px;
+  left:0; right:0;
+  padding:0;
+  margin-left:28px; margin-right:30px; 
+  border-bottom: 1px dashed silver;
+}
+#cards_txt2, #decks_txt2 {margin:0; padding:0;}
+
